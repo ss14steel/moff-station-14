@@ -20,3 +20,6 @@ trait-feeble-disability-desc = You are easy to shove around; the ideal bully tar
 
 trait-uncloneable-disability-name = Uncloneable
 trait-uncloneable-disability-desc = You are unable to be cloned by cloning pods.
+
+trait-nonverbal-name = Non-verbal
+trait-nonverbal-desc = You do not talk.
